@@ -1,0 +1,14 @@
+header{
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+}
+
+header a{
+  color: rebeccapurple;
+  font-size: larger;
+}
+header a img{
+  width: 200px;
+  height: 200px;
+}
